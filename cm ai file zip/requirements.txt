@@ -1,0 +1,25 @@
+# --- UI & Framework ---
+streamlit
+pandas
+xlsxwriter
+openpyxl
+
+# --- AI & LangChain ---
+langchain-chroma
+langchain-google-genai>=2.0.0
+langchain-community
+google-generativeai>=0.8.3
+google-genai
+
+# --- Search & Vector DB ---
+chromadb
+sentence-transformers
+rank_bm25
+
+# --- Document & Image Processing ---
+pdf2image
+pypdf
+pillow
+
+# --- Utility ---
+python-dotenv
